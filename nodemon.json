@@ -1,0 +1,6 @@
+{
+    "watch": ["src"],
+    "ext": "ts",
+    "exec": "npx tsx && node dist/index.js"
+  }
+  
